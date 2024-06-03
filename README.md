@@ -1,4 +1,4 @@
-<p align="left">Olá! Meu nome é Erick e sou um desenvolvedor/estudante apaixonado por back-end. Bem-vindo ao meu espaço no GitHub, onde compartilho projetos pessoais e experimentos.</p>
+<p align="left">Olá! Meu nome é Erick e sou um desenvolvedor/estudante apaixonado por full stack. Bem-vindo ao meu espaço no GitHub, onde compartilho projetos pessoais e experimentos.</p>
 
 ###
 
